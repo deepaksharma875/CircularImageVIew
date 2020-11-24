@@ -1,3 +1,4 @@
+include ':Toast'
 include ':CircularImageView'
 include ':app'
 rootProject.name = "LibraryProject"
